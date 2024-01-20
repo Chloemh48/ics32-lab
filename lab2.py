@@ -5,9 +5,8 @@
 # Replace the following placeholders with your information.
 # Please see the README in this repository for the requirements of this lab exercise
 
-# Chloe Fabro
-# xfabro@uci.edu
-# xfabro
+# Chloe Yuan
+
 def add(a, b):
     return a + b
 

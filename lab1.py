@@ -1,8 +1,7 @@
 # lab1.py
 # Starter code for lab 1 in ICS 32 Programming with Software Libraries in Python
-# Chloe Fabro
-# xfabro@uci.edu
-# xfabro
+# Chloe Yuan
+
 
 def print_message():
      return 'Welcome to ICS 32 PyCalc!'
